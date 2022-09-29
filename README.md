@@ -1,2 +1,2 @@
 # hris-tokens
-Design tokens of HRIS
+Tokens of HRIS Design System 
